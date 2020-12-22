@@ -1,12 +1,12 @@
 ---
-title: "An example conference paper"
+title: "hhhhh"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- hhhh
 
 # Author notes (optional)
 author_notes:
@@ -29,10 +29,16 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Dear Dr. Suri, 
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+I hope this email finds you well.
+
+I’m so excited to have been paired with you! I cannot wait to learn from you and share my passion for research, development, and economics with you!
+
+I had the pleasure of reading your work in the past and have always been inspired by it! I remember reading your work on M-Pesa around the time I decided to pursue development economics as a field. I was always fascinated by how mobile money and its use can be a tool to facilitate development. 
+
+I wish you all the best in the remaining days of 2020 and a great start in the upcoming year!
+Mustafa
 
 tags: []
 
