@@ -29,16 +29,7 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Dear Dr. Suri, 
-
-I hope this email finds you well.
-
-I’m so excited to have been paired with you! I cannot wait to learn from you and share my passion for research, development, and economics with you!
-
-I had the pleasure of reading your work in the past and have always been inspired by it! I remember reading your work on M-Pesa around the time I decided to pursue development economics as a field. I was always fascinated by how mobile money and its use can be a tool to facilitate development. 
-
-I wish you all the best in the remaining days of 2020 and a great start in the upcoming year!
-Mustafa
+abstract: Cleft Lip/Palate, a congenital orofacial anomaly, carries an incidence rate of approximately 1 in every 1000 births. In addition to the stigma associated with the condition, the varying levels of cleft severity might result in lower life outcomes which could include lower cognitive ability, physical and psychological well-being, social and behavioral outcomes of adolescents. This paper focuses on the social integration element of life outcomes, which is composed of the social inclusion and prosocial behavior of the adolescent. Despite the affordability of restorative surgeries, patients in rural areas of Low and Middle-Income Countries (LMICs) such as India face accessibility and affordability constraints. Nevertheless, efforts by NGOs in providing free CLP restorative surgeries exist in LMICs. The literature on the impact of CLP and its correction through surgeries lacks causally identified evaluations, which this study provides. In this paper, using a difference in differences method with household fixed effects, we estimate the impact of CLP and receiving CLP reparative surgeries on the social Integration of adolescents in India. Our results indicate that the average level of cleft severity carries a statistically significant negative impact on social integration of patients. The estimate is mainly driven by the negative effect of  CLP on the social inclusion. Utilizing a Directed Acyclical Graph framework, we find that speech impediment mediates the relationship between CLP and social inclusion, while CLP indirectly affects prosocial behavior through its relationship with social inclusion. 
 
 tags: []
 
