@@ -1,12 +1,11 @@
 ---
-title: "hhhhh"
+title: "Impact of Cleft Lip/Palate amd CLP Reparative Surgeries On the Social Integration of Adolescent Patients in India"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- hhhh
 
 # Author notes (optional)
 author_notes:
@@ -41,7 +40,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://repository.usfca.edu/thes/1185/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -72,13 +71,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
