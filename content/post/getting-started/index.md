@@ -80,9 +80,8 @@ iframe {width:100%;}
 
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/H7jtQfFtEFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/hxqW1Eq0iP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="image"><iframe width="560" height="315" src="file:///C:\users\jamustafahzahid\desktop\website2\starter-academic\content\post\getting-started\IMG_6260.JPG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<img src="file:///C:\users\jamustafahzahid\desktop\website2\starter-academic\content\post\getting-started\IMG_6260.JPG">
 
 </div>
 
