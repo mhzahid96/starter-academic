@@ -57,6 +57,8 @@ image = "Users/mustafahzahid/Desktop/website1/static/media/headers/IMG_6260.JPG"
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
 3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
+<img src="C:\users\mustafahzahid\desktop\website2\starter-acadenic\static\media\headers\IMG_6260.JPG"/>
+
 <style>
 
 div.full-width {position:relative;float:left;width:100%;}
