@@ -33,6 +33,8 @@ image:
   placement: 2
   preview_only: false
 
+image: ("\static\media\headers\IMG_6260.JPG")
+
 authors:
 - admin
 - 吳恩達
