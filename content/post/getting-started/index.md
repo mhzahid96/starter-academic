@@ -22,9 +22,16 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-
-
-image: ("\static\media\headers\IMG_6260.JPG")
+image:
+  caption: 'Image credit: [**Unsplash**]("/static/media/headers/IMG_6260.jpg")'
+  focal_point: ""
+  placement: 1
+  preview_only: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
 
 authors:
 - admin
