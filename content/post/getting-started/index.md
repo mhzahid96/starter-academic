@@ -57,12 +57,6 @@ image = "Users/mustafahzahid/Desktop/website1/static/media/headers/IMG_6260.JPG"
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
 3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
-<style>
-<img src="\getting-started\IMG_6260.JPG"/>
-
-<img src="file:///C:\users\jamustafahzahid\desktop\website2\starter-academic\content\post\getting-started\IMG_6260.JPG">
-
-</style>
 
 <style>
 
@@ -88,7 +82,7 @@ iframe {width:100%;}
 
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/hxqW1Eq0iP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/00HDK51C5BI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<img src="file:///C:\users\jamustafahzahid\desktop\website2\starter-academic\content\post\getting-started\IMG_6260.JPG">
 
 </div>
 
