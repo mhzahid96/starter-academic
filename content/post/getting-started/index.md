@@ -85,6 +85,7 @@ iframe {width:100%;}
 
 </div>
 
+<img src="IMG_6260.JPG">
 
 {{< figure src="/static/media/headers/IMG_6260.jpg" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
