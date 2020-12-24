@@ -57,6 +57,35 @@ image = "Users/mustafahzahid/Desktop/website1/static/media/headers/IMG_6260.JPG"
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
 3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
+<style>
+
+div.full-width {position:relative;float:left;width:100%;}
+
+@media screen
+
+  and (min-width: 751px), screen and (min-device-width:751) {
+
+div.video {position:relative;float:left;padding:5px;width:30%;}
+
+iframe {width:100%;}
+
+}
+
+}
+
+</style>
+
+<div class="full-width">
+
+<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/H7jtQfFtEFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/hxqW1Eq0iP4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/00HDK51C5BI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+</div>
+
+
 {{< figure src="/static/media/headers/IMG_6260.jpg" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
