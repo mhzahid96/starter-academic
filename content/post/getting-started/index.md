@@ -59,6 +59,8 @@ image = "Users/mustafahzahid/Desktop/website1/static/media/headers/IMG_6260.JPG"
 
 <img src="\static\media\headers\IMG_6260.JPG"/>
 
+<img src="file:///C:\users\jamustafahzahid\desktop\website2\starter-academic\static\media\headers\IMG_6260.JPG">
+
 <style>
 
 div.full-width {position:relative;float:left;width:100%;}
