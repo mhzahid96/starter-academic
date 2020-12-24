@@ -61,6 +61,8 @@ image = "Users/mustafahzahid/Desktop/website1/static/media/headers/IMG_6260.JPG"
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
+- [This is an image]("website2\static\media\headers\IMG_6260.JPG")
+
 {{< figure src="https://unsplash.com/photos/CpkOjOcXdUY)" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
 
