@@ -10,7 +10,7 @@ role: Data Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Emendata LLC
+- name: Emendata LLC.
   
 
 # Short bio (displayed in user profile at end of posts)
