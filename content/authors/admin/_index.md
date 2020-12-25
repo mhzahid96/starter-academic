@@ -14,13 +14,14 @@ organizations:
   
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include development economics, health economics, sustainable development and sports economics.
+bio: 
 
 # Interests to show in About widget
 interests: 
 - Development Economics
 - Health Economics
 - Climate Economics
+- Futbol/soccer
 
 # Education to show in About widget
 education:
@@ -40,19 +41,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:your-mustafahmzahid@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: https://twitter.com/mustafahzahid
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=TY4pyekAAAAJ&hl=en
+- #icon: github
+  #icon_pack: fab
+  #link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/mustafa-zahid-08a121b1/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,8 +69,11 @@ email: ""
 highlight_name: false
 ---
 
-I'm a researcher intersted in development economics.
+My name is Mustafa and I'm a researcher at heart. I'm working to dedicate my career to impactful research to improve the lives of disadvantaged communities around the world. I hold a mster degree in development economics and have experience in managing research projects. My research experience includes refugee assimilation in host countries, child and adolescent health, impact evaluation of development programs. I’m interested in the fields of development economics, health economics, and environmental and climate economics, including the intersection of the three. 
 
-LMy research interests include the intersection of development healsssssth climate anf sustainable development this is test change lets see.
+I’m currently a Data Analyst at Emendata, a research and data analytics firm, where I’m working on projects surrounding healthcare and healthcare delivery.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I also love futbol/soccer and exploring the cusines of the world!
+
+
+
