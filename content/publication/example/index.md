@@ -37,7 +37,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-url_pdf: 'https://repository.usfca.edu/cgi/viewcontent.cgi?article=2270&context=thes'
+- url_pdf: 'https://repository.usfca.edu/cgi/viewcontent.cgi?article=2270&context=thes'
 url_code: ''
 url_dataset: ''
 url_poster: ''
