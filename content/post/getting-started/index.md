@@ -87,9 +87,9 @@ iframe {width:100%;}
 
 <img src="IMG_6260.JPG">
 
-<img src="arabclim_graph1">
+<img src="arabclim_graph1.png">
 
-<img src="arabclim_graph2">
+<img src="arabclim_graph2.png">
 
 {{< figure src="/static/media/headers/IMG_6260.jpg" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
