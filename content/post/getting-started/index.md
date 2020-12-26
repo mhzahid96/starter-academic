@@ -85,6 +85,15 @@ iframe {width:100%;}
 
 </div>
 
+<div class="row">
+  <div class="column">
+    <img src="arabclim_graph1.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="arabclim_graph2.png" alt="Forest" style="width:100%">
+  </div>
+  </div>
+
 <img src="IMG_6260.JPG">
 testttt
 <img src="arabclim_graph1.png">
