@@ -82,6 +82,25 @@ iframe {width:100%;}
 
 <div class="image"><iframe width="560" height="315" src="file:///C:\users\jamustafahzahid\desktop\website2\starter-academic\content\post\getting-started\IMG_6260.JPG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+<div class="div1">
+
+<img src="arabclim_graph1.png">
+
+</div>
+
+<div class="div2">
+
+<img src="arabclim_graph2.png">
+
+</div>
+
+Css
+
+.div1, div2{
+
+display: inline-block;
+
+}
 
 </div>
 
