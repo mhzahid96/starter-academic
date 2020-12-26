@@ -49,12 +49,3 @@ subtitle = " "
  # CSS class.
  css_class = ""
 +++
-
-
-
-Here you can find my latest work and thoughts.
-
-
-
-اهلاً و سهلاً بكم في موقعي. هنا اشارككم اعمالي و افكاري. 
-
