@@ -22,7 +22,7 @@ publishDate: "2019-06-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["7"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: Custom Link
 url: ''
-url_pdf: 'https://repository.usfca.edu/cgi/viewcontent.cgi?article=2270&context=thes'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
