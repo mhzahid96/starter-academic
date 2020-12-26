@@ -38,10 +38,10 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-# url: 'https://repository.usfca.edu/thes/1185/'
+url: 'https://repository.usfca.edu/thes/1185/'
 url_pdf: 'https://repository.usfca.edu/thes/1185/'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://repository.usfca.edu/thes/1185/'
 url_poster: ''
 url_project: ''
 url_slides: ''
