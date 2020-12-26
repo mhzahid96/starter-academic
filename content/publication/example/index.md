@@ -37,9 +37,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
-
+- name: Custom Link
+url: http://example.org
 url_pdf: 'https://repository.usfca.edu/thes/1185/'
 url_code: ''
 url_dataset: ''
