@@ -200,10 +200,7 @@ display: inline-block;
   </div>
 
 <img src="IMG_6260.JPG">
-testttt
+tesccccc
 <img src="arabclim_graph1.png">
 
 <img src="arabclim_graph2.png">
-
-
-
