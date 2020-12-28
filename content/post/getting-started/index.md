@@ -47,7 +47,7 @@ categories:
 - 教程
 ---
 
--h Climate Change Public Opinion in the Arab World 
+- Climate Change Public Opinion in the Arab World 
 
 A couple of months ago, I came across an email from the Arab Barometer series of summary results from their 2018-2019 fifth wave survey. This time it was results from the newly added questions on the public opinion regarding environmental issues, specifically water pollution, climate change, and waste. The results indicated that although there is differences between countries, there is no difference across demographic characteristics. So I wondered what drives public opinion regarding climate change in the Arab world?
 
