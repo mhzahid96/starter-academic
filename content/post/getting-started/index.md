@@ -4,7 +4,7 @@ title: Public Opinion and Climate Change in Arab World | الرأي العام �
 subtitle: What Can We Learn From the Data
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: 
 
 # Link this post with a project
 projects: []
@@ -205,10 +205,5 @@ testttt
 
 <img src="arabclim_graph2.png">
 
-{{< figure src="/static/media/headers/IMG_6260.jpg" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
-
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
-
-{{<figure src  = "website2/static/media/headers/IMG_6260.JPG">}}
 
 
