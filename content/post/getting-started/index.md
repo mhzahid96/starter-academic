@@ -73,7 +73,7 @@ Here are a few example of climate change ramifications in the Arab world:
  <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/00HDK51C5BI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
  </div>
 
-hfgfgfgfgf 
+hfgfgfgjhjhjhfgf 
 •	Data on people’s opinion:
 So what can we learn from the data on public opinion? There are considerable differences between countries. A quick look at the number across gender lines, age categories, and urban-rural divide does not yield any insights. A caveat of this data is not all Arab countries are included. But countries with higher temperatures seem to have a higher percentage of people believing in the seriousness of climate change. Additionally, the higher the GDP per capita is, the lower percentage of people believing in the seriousness of climate change. 
 
