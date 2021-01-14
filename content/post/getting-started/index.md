@@ -1,7 +1,7 @@
 ---
-title: Understanding Public Opinion on Climate Change in Arab World 
+title: Understanding Public Opinion on Climate Change in the Arab World 
 
-subtitle: What Can We Learn From the Data
+subtitle: 
 
 # Summary for listings and search engines
 summary: 
@@ -13,13 +13,13 @@ projects: []
 date: "2010-12-20T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2020-01-13T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -73,7 +73,7 @@ Here are a few example of climate change ramifications in the Arab world:
  <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/00HDK51C5BI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
  </div>
 
- 
+hfgfgfgfgf 
 •	Data on people’s opinion:
 So what can we learn from the data on public opinion? There are considerable differences between countries. A quick look at the number across gender lines, age categories, and urban-rural divide does not yield any insights. A caveat of this data is not all Arab countries are included. But countries with higher temperatures seem to have a higher percentage of people believing in the seriousness of climate change. Additionally, the higher the GDP per capita is, the lower percentage of people believing in the seriousness of climate change. 
 

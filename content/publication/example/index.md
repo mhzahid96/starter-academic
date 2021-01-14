@@ -1,5 +1,5 @@
 ---
-title: "Impact of Cleft Lip/Palate amd CLP Reparative Surgeries On the Social Integration of Adolescent Patients in India"
+title: "Impact of Cleft Lip/Palate and CLP Reparative Surgeries On the Social Integration of Adolescent Patients in India"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
