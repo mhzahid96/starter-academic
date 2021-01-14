@@ -69,7 +69,7 @@ Here are a few example of climate change ramifications in the Arab world:
  </style>
  <div class="full-width">
  <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=Vo61TiAGwhk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
- <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=LfLcdTEInLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+ <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/LfLcdTEInLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
  <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/00HDK51C5BI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
  </div>
 
