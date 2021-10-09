@@ -66,13 +66,8 @@ email: ""
 highlight_name: false
 ---
 
-My name is Mustafa and I'm passionate about research. I'm working to dedicate my career to impactful research to improve the lives of disadvantaged communities around the world. I hold a master's degree in development economics and have experience in managing research projects. My research experience includes refugee assimilation in host countries, child and adolescent health, impact evaluation of development programs. I’m interested in the fields of development economics, health economics, and environmental and climate economics, including the intersection of the three. 
-
-I've previously worked as a Data Analyst at Emendata, a research and data analytics firm, where I’m working on projects surrounding healthcare and healthcare delivery.
+My name is Mustafa and I'm passionate about research. I'm working to dedicate my career to impactful research to improve the lives of disadvantaged communities around the world. My research experience includes refugee assimilation in host countries, child and adolescent health, impact evaluation of development programs, medicare delivery in the US. I’m interested in topics around development economics and health.
 
 Currently, I'm working as a Research Data Analyst at Stanford University's ECHO Lab, housed under the Center on Food Security and the Environment.
 
 I also love futbol/soccer and exploring the cusines of the world!
-
-
-
