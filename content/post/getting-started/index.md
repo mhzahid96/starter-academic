@@ -1,5 +1,5 @@
 ---
-title: Understanding Public Opinion on Climate Change in the Arab World 
+title: Climate Opinion in the Arab World 
 
 subtitle: 
 
@@ -19,7 +19,7 @@ lastmod: "2020-01-13T00:00:00Z"
 draft: true
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 
 # Featured image
