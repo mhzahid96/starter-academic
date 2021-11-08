@@ -48,7 +48,7 @@ categories:
 
 A couple of months ago, I came across an email from the Arab Barometer series of summary results from their  <a href="https://www.arabbarometer.org/surveys/arab-barometer-wave-v/">2018-2019 fifth wave survey </a>. It was from the newly added questions on the public opinion regarding environmental issues, specifically water pollution, climate change, and waste. The results indicated that although there is differences between countries, there is no difference across demographic characteristics. So I wondered what are the determinants of climate opinion in the Arab world?
 
-• Climate Change and the Arab World \n
+• Climate Change and the Arab World <br>
 Ramifications of climate change have been taking place around the world for years now. The Arab world stands to be one of the most affected by climate change and its ramifications, given its arid and semi-arid environment. Ramifications of climate change can materialize in a host of ways. For example, increase in extreme weather events, or shifting precipitation patterns. Such changes in the natural system can have a big impact on the social outcomes of the communities residing in affected areas. 
 
 
