@@ -57,9 +57,6 @@ Ramifications of climate change have been taking place around the world for year
 Around 65% of respondents say that climate change is serious/very serious issue. There is considerable variation in between countries and within in climate change as seen in the below figures.
 
 <img src="arabclim_graph1.png">
-
-<img src="arabclimop.png">
-
 <img src="Rplot06.png">
 
 <b>	Can temperature shape opinion? </b> <br>
