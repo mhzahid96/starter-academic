@@ -72,29 +72,3 @@ Adaptation and mitigation are two approaches in the face of climate change taken
 
 <img src="gdp_op.png">
  
-
-
-
-<style>
-
-div.full-width {position:relative;float:left;width:100%;}
-
-@media screen
-
-  and (min-width: 751px), screen and (min-device-width:751) {
-
-div.video {position:relative;float:left;padding:5px;width:30%;}
-
-iframe {width:100%;}
-
-}
-
-}
-
-</style>
-
-<div class="full-width">
-
-<div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/H7jtQfFtEFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="image"><iframe width="560" height="315" src="file:///C:\users\jamustafahzahid\desktop\website2\starter-academic\content\post\getting-started\IMG_6260.JPG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
