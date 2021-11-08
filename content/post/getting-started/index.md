@@ -46,7 +46,7 @@ categories:
 - 教程
 ---
 
-A couple of months ago, I came across an email from the Arab Barometer series of summary results from their 2018-2019 fifth wave survey. This time it was results from the newly added questions on the public opinion regarding environmental issues, specifically water pollution, climate change, and waste. The results indicated that although there is differences between countries, there is no difference across demographic characteristics. So I wondered what drives public opinion regarding climate change in the Arab world?
+A couple of months ago, I came across an email from the Arab Barometer series of summary results from their 2018-2019 fifth wave survey (https://www.arabbarometer.org/surveys/arab-barometer-wave-v/). it was from the newly added questions on the public opinion regarding environmental issues, specifically water pollution, climate change, and waste. The results indicated that although there is differences between countries, there is no difference across demographic characteristics. So I wondered what are the determinants of climate opinion in the Arab world?
 
 •	Data Availability 
 The first challenge I have encountered is that there is not enough data. When looking for documented public opinion regarding climate change in the Arab world, there is no consistent survey that asks a representative sample about their opinions. The only representative survey that exists comes from one year, which is the last iteration/wave of surveys from the Arab Barometer.
