@@ -59,7 +59,7 @@ Around 65% of respondents say that climate change is serious/very serious issue.
 
 <img src="arabclimop.png">
 
-<img src="Rplot6.png">
+<img src="Rplot06.png">
 
 •	Can temperature have an impact on opinion?
 Let’s take the temperature for example. The data shows a steady increase in average yearly temperature from the start of the century up to 2016. There is growing evidence from multiple studies on the negative impacts of increased temperature in a multitude of outcomes (health, education, productivity to say a few). When looking at a plot of average temperature in the last decade and climate opinion at the subnational level, there is a u-shaped relationship, where lowest and highest average temperature divisions have a higher percentage of people saying climate change is a serious issue. 
