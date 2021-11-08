@@ -10,7 +10,7 @@ summary:
 projects: []
 
 # Date published
-date: "2010-12-20T00:00:00Z"
+date: "2021-11-07T00:00:00Z"
 
 # Date updated
 lastmod: "2020-01-13T00:00:00Z"
@@ -39,11 +39,12 @@ authors:
 - admin
 
 tags:
-- Academic
+- Climate Change
+- Arab World
 
 categories:
 - Demo
-- 教程
+
 ---
 
 A couple of months ago, I came across an email from the Arab Barometer series of summary results from their  <a href="https://www.arabbarometer.org/surveys/arab-barometer-wave-v/">2018-2019 fifth wave survey </a>. It was from the newly added questions on the public opinion regarding environmental issues, specifically water pollution, climate change, and waste. The results indicated that although there is differences between countries, there is no difference across demographic characteristics. So I wondered what are the determinants of climate opinion in the Arab world?
@@ -73,15 +74,6 @@ Adaptation and mitigation are two approaches in the face of climate change taken
  
 
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-
-![This is an image]("\static\media\headers\IMG_6260.JPG")
-
-image = "Users/mustafahzahid/Desktop/website1/static/media/headers/IMG_6260.JPG" 
-
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
-
 
 <style>
 
@@ -106,37 +98,3 @@ iframe {width:100%;}
 <div class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/H7jtQfFtEFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="image"><iframe width="560" height="315" src="file:///C:\users\jamustafahzahid\desktop\website2\starter-academic\content\post\getting-started\IMG_6260.JPG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="div1">
-
-<img src="arabclim_graph1.png">
-
-</div>
-
-<div class="div2">
-
-<img src="arabclim_graph2.png">
-
-</div>
-
-Css
-
-.div1, div2{
-
-display: inline-block;
-
-}
-
-</div>
-
-<div class="row">
-  <div class="column">
-    <img src="arabclim_graph1.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="arabclim_graph2.png" alt="Forest" style="width:100%">
-  </div>
-  </div>
-
-<img src="IMG_6260.JPG">
-tesccccc
