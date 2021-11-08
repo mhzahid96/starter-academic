@@ -72,3 +72,17 @@ Adaptation and mitigation are two approaches in the face of climate change taken
 
 <img src="gdp_op.png">
  
+ <b> Drought in Al Bekaa Valley </b>
+35 percent of Lebanon’s land is cultivated, and half of that land is in the Bekaa region. Most crops in the Bekaa region are rain-fed. Al Bekaa and Mount Lebanon account for almost 40 percent of the number of farm holdings in Lebanon,
+
+The Bekaa Valley represents around 40 percent of the cultivated land in Lebanon. In 2012, agriculture accounted for 15 percent of exports and imports in Lebanon. In areas where most agriculture products are produced, agriculture accounts for 80 percent of GDP. Al Bekaa is Lebanon’s most important farming region. It is also the home of industries that are directly linked to farming. Of the ramifications of climate change that have been affecting the region is the decline in rainfall, leading to increase in drought events.
+
+<b> Wildfires in Mount Lebanon </b>
+The second region with the highest percentage of people believing in the seriousness of climate change is Mount Lebanon. Alongside the agricultural importance of this region, Mount Lebanon has seen several wildfires, most recently in October of last year. Increased occurrence of heatwaves due to climate change, accompanied by drought events, leads to more wildfires like the one witnessed last year.
+
+So for both these regions, we can see how direct exposure to climate change ramifications can affect public opinion. 
+
+<b> Conclusion </b> 
+There is not enough data to identify long-term trends in public opinion regarding climate change, and thus better understand determinants of climate opinion. However, potentially, cross-country variation can depend on the capacity to adapt to ramifications of climate change, and that within-country variation can potentially be partly explained by the rate of dependence on agriculture, due to direct exposure to climate change ramifications. 
+
+But does public opinion matter? And why is it important to understand its drivers? Maybe it is not. But aside from the interesting insights that can be deduced from such exercise, it can also teach something about what shapes people's beliefs about certain phenomena such as climate change. And although strong opinion towards climate change does not necessarily translate to action or pressure on actors to bring about certain mitigation policies, it can form a basis for such actions. 
