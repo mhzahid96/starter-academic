@@ -66,7 +66,7 @@ Let’s take the temperature for example. The data shows a steady increase in av
 
 <img src="temp_op.png">
 
-<b>• Wealthier countries might be more capable to adapt <b> <br>
+<b>• Wealthier countries might be more capable to adapt </b> <br>
 Adaptation and mitigation are two approaches in the face of climate change taken by institutions to lessen the intensity of climate change or its impact on people's lives. Wealthier nations might have a bigger capacity to take on adaptation policies High capacity to adapt to high temperature or extreme shifting weather patterns combined with a low percentage of dependence on agriculture for livelihood can lead to minimal direct exposure to ramifications of climate change. 
  
 <style>
