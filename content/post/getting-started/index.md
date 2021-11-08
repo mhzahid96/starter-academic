@@ -16,7 +16,7 @@ date: "2010-12-20T00:00:00Z"
 lastmod: "2020-01-13T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: true
@@ -37,11 +37,9 @@ image:
 
 authors:
 - admin
-- 吳恩達
 
 tags:
 - Academic
-- 开源
 
 categories:
 - Demo
@@ -50,11 +48,15 @@ categories:
 
 A couple of months ago, I came across an email from the Arab Barometer series of summary results from their 2018-2019 fifth wave survey. This time it was results from the newly added questions on the public opinion regarding environmental issues, specifically water pollution, climate change, and waste. The results indicated that although there is differences between countries, there is no difference across demographic characteristics. So I wondered what drives public opinion regarding climate change in the Arab world?
 
-•	Data Availability
+•	Data Availability 
 The first challenge I have encountered is that there is not enough data. When looking for documented public opinion regarding climate change in the Arab world, there is no consistent survey that asks a representative sample about their opinions. The only representative survey that exists comes from one year, which is the last iteration/wave of surveys from the Arab Barometer.
 
 •	Climate Change in the Arab World
-•	Ramifications of climate change have been taking place around the world for years now. The MENA region is no exception. The MENA region stands to be one of the most affected by climate change and its ramifications, given its arid and semi-arid environment. Ramifications of climate change can materialize in a host of ways. For example increase in average temperature, and or extreme weather events, as well as shifting precipitation patterns. Such changes in the natural system can have a big impact on the social outcomes of the communities residing in affected areas. 
+•	Ramifications of climate change have been taking place around the world for years now. The MENA region is no exception. The MENA region stands to be one of the most affected by climate change and its ramifications, given its arid and semi-arid environment. Ramifications of climate change can materialize in a host of ways. For example increase in average temperature, and or extreme weather events, as well as shifting precipitation patterns. Such changes in the natural system can have a big impact on the social outcomes of the communities residing in affected areas . 
+
+<img src="arabclim_graph1.png">
+
+<img src="arabclim_graph2.png">
 
 •	Let’s take the temperature for example. The data shows a steady increase in average yearly temperature from the start of the century up to 2016. There is growing evidence from multiple studies on the negative impacts of increased temperature in a multitude of outcomes (health, education, productivity to say a few)
 
@@ -165,6 +167,3 @@ display: inline-block;
 
 <img src="IMG_6260.JPG">
 tesccccc
-<img src="arabclim_graph1.png">
-
-<img src="arabclim_graph2.png">
