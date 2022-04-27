@@ -67,4 +67,4 @@ highlight_name: false
 
 My name is Mustafa and I'm passionate about research. I'm working to dedicate my career to impactful research to improve the lives of disadvantaged communities around the world. My research experience includes refugee assimilation in host countries, child and adolescent health, impact evaluation of development programs, medicare delivery in the US. I’m interested in topics around development economics and health.
 
-Currently, I'm working as a Research Data Analyst at Stanford University's ECHO Lab, housed under the Center on Food Security and the Environment.
+Currently, I'm working as an RA at Stanford University's ECHO Lab, housed under the Center on Food Security and the Environment.
