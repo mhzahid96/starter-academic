@@ -6,7 +6,7 @@ title: "The Impact of Cleft Lip/Palate and Surgical Intervention on Adolescent L
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Bruce Wydick 
-#- Mustafa Zahid
+- Mustafa Zahid
 - Sam Manning
 - Jeremiah Maller
 - Kira Evsanaa
