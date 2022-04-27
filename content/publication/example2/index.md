@@ -41,7 +41,7 @@ abstract: Cleft lip/palate (CLP) is a congenital orofacial anomaly appearing in 
 tags: [health economics, development economics, surgical intervention, Cleft Lip/Palate, India]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
