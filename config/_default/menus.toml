@@ -19,7 +19,7 @@
  weight = 30
 
 [[main]]
-  name = "Working Paper"
+  name = "Working papers"
  url = "#projects"
  weight = 40
 
@@ -28,10 +28,10 @@
  # url = "#featured"
  # weight = 50
 
-[[main]]
-  name = "Snapshots"
-  url = "#gallery"
-  weight = 50
+#[[main]]
+#  name = "Snapshots"
+#  url = "#gallery"
+#  weight = 50
 
 [[main]]
   name = "Contact"

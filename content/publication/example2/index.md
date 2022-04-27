@@ -8,11 +8,17 @@ authors:
 - Bruce Wydick 
 - Mustafa Zahid
 - Sam Manning
+- Jeremiah Maller
+- Kira Evsanaa
+- Susann Skjoldhorne
+- Matthew Bloom
+- Abhishek Das 
+- Gaurav Deshpande
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
 date: "2022-04-13T00:00:00Z"
 doi: "http://doi.org/10.5334/aogh.3679"
