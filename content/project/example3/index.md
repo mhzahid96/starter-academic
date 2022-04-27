@@ -41,7 +41,6 @@ tags: [health economics, development economics, biomass fires, climate change, a
 # Display this page in the Featured widget?
 featured: true
 
-draft: false
 
 # Custom links (uncomment lines below)
 links:
