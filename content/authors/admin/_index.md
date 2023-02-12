@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:your-mustafahmzahid@gmail.com'
+  link: 'mailto:mustafahmzahid@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mustafahzahid
