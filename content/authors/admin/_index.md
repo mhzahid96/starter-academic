@@ -20,6 +20,7 @@ bio:
 interests: 
 - Development Economics
 - Health Economics
+- Environmental Economics
 - Futbol/soccer
 
 # Education to show in About widget
@@ -50,6 +51,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mustafa-zahid-08a121b1/
+- icon: github
+  icon_pack: fab
+  link: https://www.github.com/mhzahid96
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
