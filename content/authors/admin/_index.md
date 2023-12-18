@@ -69,6 +69,4 @@ email: "mustafahmzahid@gmail.com"
 highlight_name: true
 ---
 
-My name is Mustafa and I'm passionate about research. I'm working to dedicate my career to impactful research to improve the lives of disadvantaged communities around the world. My research experience includes estimating the impacts of environmental change on human outcomes, child and adolescent health, refugee assimilation in host countries, impact evaluation of development programs, and medicare delivery in the US. My research interests lies in the intersection of environment, health, and development.
-
-Currently, I'm working as an RA at Stanford University's ECHO Lab, housed under the Center on Food Security and the Environment.
+I'm a research data analyst at Stanford University's ECHOLab housed under the Center on Food Security and the Environment. My research intersts lie at the intersection of the environment, health, and develpoment economics. Specifically, I'm interested in how environmental factors causally affect social and economic outcomes, and what are the important impact channels and mechanisms to assess how communities and individuals can adapt or respond. I have coauthred papers estimating the impacts of cleft lip/palate on life outcomes of adolescent patients in India, the impacts of biomass burning on infant mortality, quantifying climate change loss and damage. I use this space to post my published work, working papers, and occadionally post about a topic of interest.
