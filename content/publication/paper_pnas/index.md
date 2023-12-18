@@ -29,7 +29,7 @@ publishDate: "2023-06-06T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *Wowchemy Conference*
+ publication: Proceedings of the National Academy of Sciences
 # publication_short: In *ICW*
 
 abstract: Global outdoor biomass burning is a major contributor to air pollution, especially in low- and middle-income countries. Recent years have witnessed substantial changes in the extent of biomass burning, including large declines in Africa. However, direct evidence of the contribution of biomass burning to global health outcomes remains limited. Here, we use georeferenced data on more than 2 million births matched to satellite-derived burned area exposure to estimate the burden of biomass fires on infant mortality. We find that each additional square kilometer of burning is associated with nearly 2% higher infant mortality in nearby downwind locations. The share of infant deaths attributable to biomass fires has increased over time due to the rapid decline in other important causes of infant death. Applying our model estimates across harmonized district-level data covering 98% of global infant deaths, we find that exposure to outdoor biomass burning was associated with nearly 130,000 additional infant deaths per year globally over our 2004 to 2018 study period. Despite the observed decline in biomass burning in Africa, nearly 75% of global infant deaths due to burning still occur in Africa. While fully eliminating biomass burning is unlikely, we estimate that even achievable reductions—equivalent to the lowest observed annual burning in each location during our study period—could have avoided more than 70,000 infant deaths per year globally since 2004. 
