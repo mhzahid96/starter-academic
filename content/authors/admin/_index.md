@@ -63,7 +63,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mhzahid@stanford.edu"
+email: "mustafahmzahid@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
