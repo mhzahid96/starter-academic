@@ -43,7 +43,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 # - name: 
-url_pdf: 'https://www.nber.org/papers/w31658#:~:text=These%20estimates%20of%20past%20and,emissions%20associated%20with%20multiple%20oil'
+url_pdf: 'https://www.nber.org/papers/w31658'
 url_code: ''
 url_dataset: ''
 url_poster: ''
