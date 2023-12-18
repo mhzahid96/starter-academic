@@ -18,8 +18,9 @@ bio:
 
 # Interests to show in About widget
 interests: 
+- Environment
+- Health
 - Development Economics
-- Health Economics
 - Futbol/soccer
 
 # Education to show in About widget
@@ -50,6 +51,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mustafa-zahid-08a121b1/
+- icon: github
+  icon_pack: fab
+  link: https://www.github.com/mhzahid96
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -65,6 +69,6 @@ email: "mhzahid@stanford.edu"
 highlight_name: true
 ---
 
-My name is Mustafa and I'm passionate about research. I'm working to dedicate my career to impactful research to improve the lives of disadvantaged communities around the world. My research experience includes refugee assimilation in host countries, child and adolescent health, impact evaluation of development programs, medicare delivery in the US. I’m interested in topics around development economics and health.
+My name is Mustafa and I'm passionate about research. I'm working to dedicate my career to impactful research to improve the lives of disadvantaged communities around the world. My research experience includes estimating the impacts of environmental change on human outcomes, child and adolescent health, refugee assimilation in host countries, impact evaluation of development programs, and medicare delivery in the US. My research interests lies in the intersection of environment, health, and development.
 
 Currently, I'm working as an RA at Stanford University's ECHO Lab, housed under the Center on Food Security and the Environment.
