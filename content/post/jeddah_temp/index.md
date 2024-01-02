@@ -16,7 +16,7 @@ date: "2024-02-02T00:00:00Z"
 lastmod: "2024-01-01T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: true
@@ -27,7 +27,7 @@ featured: true
 image:
   caption: 'Image credit: ("/static/media/headers/IMG_6260.jpg")'
   focal_point: ""
-  placement: 1
+  placement: 3
   preview_only: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
