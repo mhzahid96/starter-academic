@@ -1,5 +1,5 @@
 ---
-title: Was the 2022 WC the Most Competitive WC?
+title: Was the 2022 WC the most competitive?
 
 subtitle: 
 

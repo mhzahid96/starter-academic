@@ -1,5 +1,5 @@
 ---
-title: Climate Opinion in the Arab World 
+title: Climate opinion in the Arab world 
 
 subtitle: 
 

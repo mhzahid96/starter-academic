@@ -1,5 +1,5 @@
 ---
-title: Jeddah's December Temperature Getting Hotter 
+title: Jeddah's December temperature is getting increasingly hotter 
 
 subtitle: 
 
@@ -25,7 +25,7 @@ featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Data from Arab Barometer**]("/static/media/headers/jeddah_decades_trrends.jpg")'
+  caption: 'Image credit: [** **]("/static/media/headers/jeddah_decades_trrends.jpg")'
   focal_point: ""
   placement: 1
   preview_only: false
