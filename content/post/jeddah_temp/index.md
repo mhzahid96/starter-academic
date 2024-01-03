@@ -62,7 +62,10 @@ Looking at the two most populated cities in the Kingdom, both Jeddah and Riyadh 
 
 <img src="monthly_dist_era5_temp_jed_riy.png">
 
-What does shifting temperature mean? <a href="https://www.nytimes.com/interactive/2023/08/03/climate/ocean-temperatures-heat-earth.html?action=click&module=RelatedLinks&pgtype=Article">Rising temperatures have a multifaceted impact on earth systems</a>, .  This year, oceans have also seen numerous heatwaves. Rising ocean temperatures can disrupt marine ecosystems. Warming ocean surface temperature could also influence tropical cyclones, etc. <a href="https://www.noaa.gov/noaa-wildfire/wildfire-climate-connection"> Higher temperatures can also contribute to increases in wildfire risks</a>. All of these ramifications have downstream impacts on humans and human systems.  
+What does shifting temperature mean? <a href="https://www.nytimes.com/interactive/2023/08/03/climate/ocean-temperatures-heat-earth.html?action=click&module=RelatedLinks&pgtype=Article">Rising temperatures have a multifaceted impact on earth systems</a>. This year, oceans have seen numerous heatwaves. Rising ocean temperatures can disrupt marine ecosystems. Warming ocean surface temperature could also <a href="https://www.nature.com/articles/s41598-017-08533-6"> influence tropical cyclones </a>.<a href="https://www.noaa.gov/noaa-wildfire/wildfire-climate-connection"> Higher temperatures can also contribute to increases in wildfire risks</a>. All of these ramifications have downstream impacts on humans and human systems.  
+
+
+
 
 What is driving this? Aside from human-induced climate change, other contributing factors include <a href="https://www.climate.gov/news-features/blogs/enso/enso-and-climate-change-what-does-new-ipcc-report-say"> the arrival of Elniño</a>, <a href="https://www.nature.com/articles/d41586-023-02430-x" >rules aimed at limiting air pollution from maritime shipping</a>, and <a href="\https://www.axios.com/2023/08/14/climate-change-heat-wave-causes" > last year's Tonga volcanic eruption. </a> 
 
