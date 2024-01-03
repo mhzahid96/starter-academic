@@ -25,7 +25,7 @@ featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: ("/static/media/headers/IMG_6260.jpg")'
+  caption: 'Image credit: [**Data from Arab Barometer**]("/static/media/headers/IMG_6260.jpg")'
   focal_point: ""
   placement: 1
   preview_only: false
@@ -59,7 +59,7 @@ Since 2000, December average temperature has risen by ~ 1°C.
 
 Compared to the rest of the country, Jeddah did not witness the highest increases in temperatures when comparing December averages in the 50s and 60s to the average over the past ~13 years. Jeddah only comes at the 43rd percentile in terms of increases in December average temperature (1.48°C). Al Sulayimi in Ha’il province is ranks the highest with a 2.45C increase in average December temperature. Al Harth in Jizan has the lowest increase with 0.45°C increase in average December temperature. 
 
-<img src="spatial_change_governorates_sau.png.png">
+<img src="spatial_change_governorates_sau.png">
 
 Looking at the two most populated cities in the Kingdom, both Jeddah and Riyadh have witnessed increases in average monthly temperature throughout the year. The climate profiles for these two cities differs where Riyadh’s desert climate means that winters are much cooler than Jeddah and summers are much hotter. On the other hand, Jeddah’s average temperature does not change as considerably throughout the years and weather is more humid throughout the year. 
 
