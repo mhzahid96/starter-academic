@@ -27,7 +27,7 @@ featured: true
 image:
   caption: 'Image credit: ("/static/media/headers/IMG_6260.jpg")'
   focal_point: ""
-  placement: 3
+  placement: 1
   preview_only: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
