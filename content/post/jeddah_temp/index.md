@@ -49,11 +49,7 @@ tags:
 
 ---
 
-Growing up in Jeddah, December has always been a month of chillier and nicer weather, where my family enjoyed outdoor outings by the corniche or in the backyard, grilling corn and chestnuts. The "winter" would last from late November to mid-late February. Over the past decade, this period has become less "wintery." <a href="https://www.nytimes.com/2023/12/26/climate/global-warming-accelerating.html">Like the rest of the world</a>, average temperature has been rising. the average temperature has risen over the last decades. This year is no different. We have seen record-breaking temperatures all over the globe. Jeddah and the region are no different. This December has already seen temperatures well above the average in recent decades. 
-
-<img src="jeddah_decades_trrends.png">
-
-Since 2000, December average temperature has risen by ~ 1°C. 
+Growing up in Jeddah, December has always been a month of chillier and nicer weather, where my family enjoyed outdoor outings by the corniche or in the backyard, grilling corn and chestnuts. The "winter" would last from late November to mid-late February. Over the past decade, this period has become less "wintery." <a href="https://www.nytimes.com/2023/12/26/climate/global-warming-accelerating.html">Like the rest of the world</a>, average temperature has been rising. the average temperature has risen over the last decades. This year is no different. We have seen record-breaking temperatures all over the globe. Jeddah and the region are no different. This December has already seen temperatures well above the average in recent decades. Since 2000, December average temperature has risen by ~ 1°C. 
 
 <img src="jeddah_longterm_avg.png">
 
