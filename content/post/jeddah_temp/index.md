@@ -10,7 +10,7 @@ summary:
 projects: []
 
 # Date published
-date: "2024-02-02T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 
 # Date updated
 lastmod: "2024-01-01T00:00:00Z"
