@@ -51,7 +51,6 @@ social:
 - icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/mustafahzahid.bsky.social
-
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=TY4pyekAAAAJ&hl=en
