@@ -45,7 +45,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mustafahmzahid@gmail.com'
-- icon: bluesky
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/mustafahzahid
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -57,7 +57,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://www.github.com/mhzahid96
-- icon: bluesky
+- icon: fa-bluesky
   icon_pack: fab
   link: https://bsky.app/profile/mustafahzahid.bsky.social
 
