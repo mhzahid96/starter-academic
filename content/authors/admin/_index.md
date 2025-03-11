@@ -45,12 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mustafahmzahid@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/mustafahzahid
 - icon: bluesky
   icon_pack: fab
-  link: https://bsky.app/profile/mustafahzahid.bsky.social
+  link: https://twitter.com/mustafahzahid
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=TY4pyekAAAAJ&hl=en
@@ -60,6 +57,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://www.github.com/mhzahid96
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/mustafahzahid.bsky.social
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
