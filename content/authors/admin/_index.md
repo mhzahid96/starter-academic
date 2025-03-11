@@ -6,26 +6,29 @@ title: Mustafa Zahid | مصطفى زاهد
 superuser: true
 
 # Role/position/tagline
-role: Research Data Analyst
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford ECHO Lab
+- name: University of California, Berkeley
   
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Interests to show in About widget
-interests: 
-- Environment
-- Health
-- Development Economics
-- Futbol/soccer
+research interests: 
+- environmental Economics
+- econometrics
+- machine learning 
+- air pollution
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Energy and Resources
+    institution: University of California, Berkeley
+    year: 2029
   - course: MSc in International and Development Economics
     institution: University of San Francisco
     year: 2019
@@ -45,6 +48,10 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mustafahzahid
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/mustafahzahid.bsky.social
+
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=TY4pyekAAAAJ&hl=en
@@ -69,4 +76,5 @@ email: "mustafahmzahid@gmail.com"
 highlight_name: true
 ---
 
-I'm a research data analyst at Stanford University's <a href=http://echolabs.squarespace.com>ECHOLab</a>   housed under the <a href=http://fse.fsi.stanford.edu>Center on Food Security and the Environment</a>. My research intersts lie at the intersection of the environment, health, and develpoment economics. Specifically, I'm interested in how environmental factors causally affect social and economic outcomes, and what are the important impact channels and mechanisms to assess how communities and individuals can adapt or respond. I have coauthred papers estimating the impacts of cleft lip/palate on life outcomes of adolescent patients in India, the impacts of biomass burning on infant mortality, and quantifying climate change loss and damage. I use this space to post my published work, working papers, and occasionally post about topics of interest (see under posts).
+I'm a PhD student at the <a href="https://erg.berkeley.edu">Energy and Resources Group at UC Berkeley</a>. My research interests focus on uncovering the mechanisms behind environmental degradation and its subsequent effects on humans. Additionally, I am interested in evaluating the effectiveness of solutions implemented to remediate or mitigate environmental degradation. Previously, I worked as a research data analyst at Stanford University's <a href="http://echolabs.squarespace.com">ECHOLab</a>, housed within the <a href="http://fse.fsi.stanford.edu">Center on Food Security and the Environment</a>. I have coauthored papers estimating the impacts of cleft lip and palate on life outcomes for adolescent patients in India, the effects of biomass burning on infant mortality, the quantification of climate change loss and damage, and the degree of climate adaptation globally across multiple sectors.
+I use this space to share my published work, working papers, and occasionally write about topics of interest (see "Posts").
