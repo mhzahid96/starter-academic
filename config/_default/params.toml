@@ -10,31 +10,31 @@
 ############################
 
 appearance:
-  theme_day: "my_1950s"
-  theme_night: "my_1950s"
-  font: "1950s"
-  font_size: "M"
+# # theme_day: "my_1950s"
+# # theme_night: "my_1950s"
+# # font: "1950s"
+# # font_size: "M"
 
 
 # Choose a theme.
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-#theme = "my_1950s"
+theme = "/Users/mustafazahid/Documents/GitHub/starter-academic/data/themes/my_1950s.toml"
 
 # Enable users to switch between day and night mode?
-#day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
-#font = ""
+font = ""
 
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-#font_size = "M"
+font_size = "M"
 
 ############################
 ## Basic Info
