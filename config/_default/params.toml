@@ -9,18 +9,12 @@
 ## Theme
 ############################
 
-#appearance:
-# # theme_day: "my_1950s"
-# # theme_night: "my_1950s"
-# # font: "1950s"
-# # font_size: "M"
-
 
 # Choose a theme.
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "/Users/mustafazahid/Documents/GitHub/starter-academic/data/themes/my_1950s.toml"
+theme = "my_1950s"
 
 # Enable users to switch between day and night mode?
 day_night = true
