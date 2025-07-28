@@ -1,5 +1,5 @@
 # Theme metadata
-name = "1950s"
+name = "my_1950s"
 
 [light]
   # Primary
@@ -12,7 +12,7 @@ name = "1950s"
   menu_title = "#fff"
 
   # Backgrounds
-  background = "#78B7C5"
+  background = "white"
   home_section_odd = "#78B7C5"
   home_section_even = "#78B7C5"
 
