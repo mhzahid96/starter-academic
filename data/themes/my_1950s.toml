@@ -1,23 +1,21 @@
 # Theme metadata
-name = "Minimal"
+name = "my_1950s"
 
+# my_1950s.toml
 [light]
-  # Primary
-  primary = "#3B9AB2"
-
-  # Menu
-  menu_primary = "#fff"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
-
-  # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
+primary = "#3B9AB2"
+primary_light = "#ffffff"
+primary_dark = "#78B7C5"
+link = "#003366"
+background = "#ffffff"
+home_section_odd = "#fafafa"
+home_section_even = "#ffffff"
 
 [dark]
-  # Primary
-  primary = "#bbdefb"
-
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+primary = "#EBCC2A"
+primary_light = "#fff3b0"
+primary_dark = "#E1AF00"
+link = "#78B7C5"
+background = "#000000"
+home_section_odd = "#1a1a1a"
+home_section_even = "#111111"
