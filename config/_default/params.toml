@@ -10,10 +10,10 @@
 ############################
 
 appearance:
-  theme_day: my_1950s
-  theme_night: my_1950s
-  font: 1950s
-  font_size: M
+  theme_day: "my_1950s"
+  theme_night: "my_1950s"
+  font: "1950s"
+  font_size: "M"
 
 
 # Choose a theme.
