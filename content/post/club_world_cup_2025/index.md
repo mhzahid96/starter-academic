@@ -26,7 +26,7 @@ featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Data from Arab Barometer**]("/static/media/headers/fig4.png")'
+  caption: 'Image credit: [**Temperature Exposure and Win Probability**]("/static/media/headers/fig4.png")'
   focal_point: ""
   placement: 1
   preview_only: false
@@ -84,5 +84,5 @@ It seems like the chatter we heard about the role of temperature in this edition
 
 In the meantime here is every goal scored from this summer's competition:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/q5GhGFpK8N4" frameborder="0" allowfullscreen></iframe>
+<iframe width="620" height="515" src="https://www.youtube.com/embed/q5GhGFpK8N4" frameborder="0" allowfullscreen></iframe>
 
