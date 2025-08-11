@@ -69,7 +69,7 @@ As I followed the competition I was wondering if such heat was having an impact 
 
 <img src="fig3.png">
 
-On the second question of whether recent temperature exposure of a team relative to game temperature serves as an advantage, I collected regular season average temperature for the most recent season for all teams to investigate the effect of temperature deviation from regular season average on probability of winning the game. I fitted a few models appropriate for a case of binary outcomes (in this case which team won the game). The stadiums assigned for a given game is presumably random (at least at each team's regular exposure in home base). I do include the club's world ranking as an explanatory variable here. Evidence is not very strong but is suggestive of positive effect on winning probability if average temperature exposure in regular season is higher than game temperature (and conversely colder average exposure does seem to contribute negatively to probability). 
+On the second question of whether recent temperature exposure of a team relative to game temperature serves as an advantage, I collected regular season average temperature for the most recent season for all teams to investigate the effect of temperature deviation from regular season average on probability of winning the game. I fitted a few models appropriate for a case of binary outcomes (in this case which team won the game). The stadiums assigned for a given game is presumably random (at least at each team's regular exposure in home base). I do include the club's world ranking as an explanatory variable here. Evidence is not very strong but is suggestive of positive effect on winning probability if average temperature exposure in regular season is higher than game temperature (and conversely colder average exposure does seem to contribute negatively to probability). In  english, slightly hotter season average temperature relative to gametime temperature increases the probability of winning, while a slightly colder regular season exposure decreases the probability of winning the game.
 
 
 <img src="fig4.png">
@@ -87,4 +87,4 @@ In the meantime here is every goal scored from this summer's competition:
 <iframe width="1120" height="515" src="https://www.youtube.com/embed/q5GhGFpK8N4" frameborder="0" allowfullscreen></iframe>
 
 
-PS: code and data can be found in the <a href="https://github.com/mhzahid96/club_world_cup_climate"> GitHib repo</a>. .
+PS: code and data can be found in the <a href="https://github.com/mhzahid96/club_world_cup_climate"> GitHib repo</a>.
